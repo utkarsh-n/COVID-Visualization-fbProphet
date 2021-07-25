@@ -1,5 +1,6 @@
 # COVID Visualization fbProphet 
- Visualizing COVID-19 Trends at various levels using FbProphet  
+ This model visualizes COVID-19 Trends at various levels using FbProphet and predicts trends up to 30 days  
+ Note: Only outputs are shown in the final model. Source code is in individual directories :-)   
 ## PURPOSE  
 The purpose of this project is ambitious but simple: to use machine learning libraries to predict future COVID-19 trends at the county-level. In order to do this accurately, the project utilizes multiple datasets from a central source, The New York Times. These datasets are utilized to visualize macro and micro level trends, which are then run through ML models to predict future cases.  
 
